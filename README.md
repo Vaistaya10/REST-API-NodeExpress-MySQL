@@ -2,7 +2,7 @@
 
 1. Clonar repositorio
 ```
-git clone (url)
+git clone https://github.com/Vaistaya10/REST-API-NodeExpress-MySQL.git
 ```
 
 2. Reconstruir node_modules
